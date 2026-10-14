@@ -203,28 +203,53 @@ I love learning Hindi and exploring languages as a way to discover new ways of c
 
 <!-- ==================== CONTACT ==================== -->
 
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://harshithalakshmikumari.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-C9A45C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://github.com/harshi329">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
 <div align="center">
 
-### 🔐 Learn · Build · Explore · Secure
+### 💻 Building my skills, one project at a time.
 
-<i>Every small step is progress. Every project is a lesson.</i>
+Interested in cybersecurity, ethical hacking, development, and workflow automation.
 
-**Thanks for visiting my profile! 💛**
+<br/>
+
+<a href="https://harshithalakshmikumari.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-C9A45C?style=for-the-badge&labelColor=171717" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/harshi329">
+  <img src="https://img.shields.io/badge/💻_GITHUB-Explore_My_Projects-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 🔎 What I'm Exploring
+
+`Cybersecurity` · `Ethical Hacking` · `Full-Stack Development` · `n8n Automation`
+
+<br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-0D9488?style=flat-square" alt="Always learning"/>
+<img src="https://img.shields.io/badge/Fueled_by-Curiosity-C9A45C?style=flat-square" alt="Curiosity"/>
+
+<br/><br/>
+
+*Outside the world of code, I'm learning Hindi and enjoy swimming.*
+
+🏊 State-level swimming participant · 🇮🇳 Hindi language learner
+
+<br/>
+
+---
+
+### 🔐 LEARN &nbsp; · &nbsp; BUILD &nbsp; · &nbsp; EXPLORE &nbsp; · &nbsp; SECURE
+
+*Every small step is progress. Every project is a lesson.*
+
+**Thanks for stopping by! 💛**
 
 </div>
+
