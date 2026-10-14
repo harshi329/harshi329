@@ -94,6 +94,67 @@ My learning interests include:
 
 ---
 
+
+
+## 🏆 Activities & Experiences
+
+- ⚛️ Participated in Qiskit Fall Fest
+- 🧩 Participated in a Capture The Flag (CTF) challenge
+- 🚀 Explored technical projects and hackathon activities
+- 📚 Continued learning through cybersecurity and development training
+
+---
+
+## 🎨 Hobbies & Interests
+
+- 💻 Exploring technology and coding
+- 🔐 Learning about cybersecurity
+- 🧩 Solving programming challenges
+- 🎨 Exploring UI design and creative ideas
+- 🌱 Discovering new tools and technologies
+- 🚀 Working on personal projects
+
+---
+
+## 🌸 Beyond Technology | My Interests
+
+- 🏊‍♀️ **Swimming:** State-level swimming participant with an interest in sports, discipline, and continuous improvement.
+- 🇮🇳 **Language Learning:** Love learning Hindi and exploring new languages and cultures.
+- 🌱 **Personal Growth:** Enjoy developing new skills and challenging myself to improve.
+- 🎯 **Discipline & Consistency:** Applying the patience and dedication learned through sports to my academic and technical journey.
+
+
+## 🎯 My Current Focus
+
+- Strengthening Python fundamentals
+- Improving problem-solving and DSA
+- Learning ethical hacking step by step
+- Understanding networking and web security
+- Building practical full-stack projects
+- Participating in more CTFs and hackathons
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshi329&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi329&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+</div>
+## 🚀 Featured Projects
+
+| Project | Focus / Technologies | Highlights | Link |
+|---|---|---|---|
+| 🛡️ **Deepfake Shield AI** | Python, Flask, Machine Learning | Scam detection, suspicious URL analysis, QR-code scanning | [Repository](https://github.com/harshi329) |
+| 🔐 **SentinelShield X** | React, TypeScript, Node.js | Intrusion detection concepts, security dashboard, web protection | [Repository](https://github.com/harshi329) |
+| 🃏 **Flashcard Quiz App** | Software Development | Interactive flashcards and quiz practice | [Repository](https://github.com/harshi329) |
+| 🏋️ **Fitness Tracker App** | Software Development | Fitness tracking application | [Repository](https://github.com/harshi329) |
+| 🌐 **Personal Portfolio** | HTML, CSS, JavaScript | Showcases my profile, skills, and projects | [Live Website](https://harshithalakshmikumari.netlify.app/) |
+
+---
 ## 🚀 Projects I've Explored
 
 ### 🛡️ Deepfake Shield AI
@@ -131,59 +192,6 @@ Projects explored during my development internship:
 - LinguaLearn
 
 [Explore my repositories →](https://github.com/harshi329?tab=repositories)
-
----
-
-## 🏆 Activities & Experiences
-
-- ⚛️ Participated in Qiskit Fall Fest
-- 🧩 Participated in a Capture The Flag (CTF) challenge
-- 🚀 Explored technical projects and hackathon activities
-- 📚 Continued learning through cybersecurity and development training
-
----
-
-## 🎨 Hobbies & Interests
-
-- 💻 Exploring technology and coding
-- 🔐 Learning about cybersecurity
-- 🧩 Solving programming challenges
-- 🎨 Exploring UI design and creative ideas
-- 🌱 Discovering new tools and technologies
-- 🚀 Working on personal projects
-
----
-
-
-## 🎯 My Current Focus
-
-- Strengthening Python fundamentals
-- Improving problem-solving and DSA
-- Learning ethical hacking step by step
-- Understanding networking and web security
-- Building practical full-stack projects
-- Participating in more CTFs and hackathons
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshi329&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi329&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-</div>
-## 🚀 Featured Projects
-
-| Project | Focus / Technologies | Highlights | Link |
-|---|---|---|---|
-| 🛡️ **Deepfake Shield AI** | Python, Flask, Machine Learning | Scam detection, suspicious URL analysis, QR-code scanning | [Repository](https://github.com/harshi329) |
-| 🔐 **SentinelShield X** | React, TypeScript, Node.js | Intrusion detection concepts, security dashboard, web protection | [Repository](https://github.com/harshi329) |
-| 🃏 **Flashcard Quiz App** | Software Development | Interactive flashcards and quiz practice | [Repository](https://github.com/harshi329) |
-| 🏋️ **Fitness Tracker App** | Software Development | Fitness tracking application | [Repository](https://github.com/harshi329) |
-| 🌐 **Personal Portfolio** | HTML, CSS, JavaScript | Showcases my profile, skills, and projects | [Live Website](https://harshithalakshmikumari.netlify.app/) |
 
 ---
 
