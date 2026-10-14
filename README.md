@@ -20,7 +20,7 @@ Vignan University · Class of 2028
 
 ## 👩‍💻 About Me
 
-Hi! I'm Harshitha, a B.Tech Computer Science and Engineering student at Vignan University.
+Hi! I'm Harshitha Lakshmi Kumari , a B.Tech Computer Science and Engineering student at Vignan University.
 
 I'm interested in cybersecurity, ethical hacking, software development, and exploring how technology can solve real-world problems.
 
@@ -154,9 +154,10 @@ Projects explored during my development internship:
 
 ---
 
+
 ## 🎯 My Current Focus
 
-- Strengthening Python and Java fundamentals
+- Strengthening Python fundamentals
 - Improving problem-solving and DSA
 - Learning ethical hacking step by step
 - Understanding networking and web security
@@ -174,6 +175,15 @@ Projects explored during my development internship:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshi329&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 </div>
+## 🚀 Featured Projects
+
+| Project | Focus / Technologies | Highlights | Link |
+|---|---|---|---|
+| 🛡️ **Deepfake Shield AI** | Python, Flask, Machine Learning | Scam detection, suspicious URL analysis, QR-code scanning | [Repository](https://github.com/harshi329) |
+| 🔐 **SentinelShield X** | React, TypeScript, Node.js | Intrusion detection concepts, security dashboard, web protection | [Repository](https://github.com/harshi329) |
+| 🃏 **Flashcard Quiz App** | Software Development | Interactive flashcards and quiz practice | [Repository](https://github.com/harshi329) |
+| 🏋️ **Fitness Tracker App** | Software Development | Fitness tracking application | [Repository](https://github.com/harshi329) |
+| 🌐 **Personal Portfolio** | HTML, CSS, JavaScript | Showcases my profile, skills, and projects | [Live Website](https://harshithalakshmikumari.netlify.app/) |
 
 ---
 
